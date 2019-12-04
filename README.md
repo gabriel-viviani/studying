@@ -1,2 +1,2 @@
-# studying
-gathering and organizing all my recent aquired knowledge
+# Studying
+ *Gathering and Organizing all my recent aquired knowledge.
